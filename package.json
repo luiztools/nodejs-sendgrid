@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-sendgrid",
+  "version": "1.0.0",
+  "description": "A simple Node.js + SendGrid example.",
+  "main": "index.js",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
+    "dotenv-safe": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiztools/nodejs-sendgrid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiztools/nodejs-sendgrid/issues"
+  },
+  "homepage": "https://github.com/luiztools/nodejs-sendgrid#readme"
+}
